@@ -1,9 +1,6 @@
-# rightsize-budget-app
 # Rightside, personal finance app
 
 A comprehensive web application for managing personal finances, tracking expenses, and monitoring cashflow. Built with React, TypeScript, and Supabase.
-
-![Financial Dashboard Preview](public/lovable-uploads/e71df08e-73d8-49cb-a4ce-78f22100ecd4.png)
 
 **Live Demo**: https://rightside-loveable.vercel.app/
 
