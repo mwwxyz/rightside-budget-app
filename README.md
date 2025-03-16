@@ -5,7 +5,7 @@ A comprehensive web application for managing personal finances, tracking expense
 
 ![Financial Dashboard Preview](public/lovable-uploads/e71df08e-73d8-49cb-a4ce-78f22100ecd4.png)
 
-**Live Demo**: [https://personal-finance-manager.vercel.app](https://personal-finance-manager.vercel.app)
+**Live Demo**: https://rightside-loveable.vercel.app/
 
 ## Features
 
