@@ -2,7 +2,7 @@
 
 A comprehensive web application for managing personal finances, tracking expenses, and monitoring cashflow. Built with React, TypeScript, and Supabase.
 
-**Live Demo**: [https://www.rightside.ai/]
+**Live Demo**: https://www.rightside.ai/
 
 ## Features
 
